@@ -1,11 +1,15 @@
 body {
-  background: black;
+  background: #0a0a0a;
 }
 .article {
-  width: 1200px;
+  width: 420mm;
   margin: 0 auto;
 }
 .article__img {
-  width: 1200px;
-  height: 1100px;
+  width: 420mm;
+  height: 297mm;
+}
+.article__img-dif {
+  width: 420mm;
+  height: 594mm;
 }
